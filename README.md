@@ -129,5 +129,3 @@ ___
 - [Loveholics](https://pixabay.com/photos/woman-model-portrait-pose-style-6540891/ )
 - [Dodie](https://www.pexels.com/photo/photo-of-man-wearing-red-shirt-1879874/)
 - [Kero Kero Bonito](https://www.pexels.com/photo/woman-in-pink-zip-up-jacket-and-blue-denim-jeans-2853909/)
-
-___
