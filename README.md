@@ -1,6 +1,4 @@
-# Personality Quiz Starter Code
-
-( *<3 This is a place for you to start building your personality quiz! <3* )
+#[GWC Project: Quiz](https://quiz-final.piggysweettooth.repl.co/)
 ___
 ### Naj's Blurb ~ 
 
