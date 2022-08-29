@@ -1,4 +1,4 @@
-#[GWC Project: Quiz](https://quiz-final.piggysweettooth.repl.co/)
+# [GWC Project: Quiz](https://quiz-final.piggysweettooth.repl.co/)
 ___
 ### Naj's Blurb ~ 
 
