@@ -2,7 +2,7 @@
 ___
 ### Naj's Blurb ~ 
 
-Hey! For this project I wanted to expand on the task given and had a goal to create a quiz more similar to buzzfeed quizes in which you could select different options, keep selecting. Optimally I would have figured out how to make it work without needing next buttons but some of my code bugged when multiple questions were available. Nevertheless it was fun to try to figure out how to get it working. It started out like the tutorial videos but eventually a lot of the code in the original wasn't needed when different functions were added. I also wanted to make it work without using ids for. theselections as I had 99 options(ah!) so making work with classes was also an interesting challenge. Hope you enjoy the muisc and fits! <3 
+Hey! For this Girls Who Code project I wanted to expand on the task given and had a goal to create a quiz more similar to buzzfeed quizes in which you could select different options, keep selecting. Optimally I would have figured out how to make it work without needing next buttons but some of my code bugged when multiple questions were available. Nevertheless it was fun to try to figure out how to get it working. It started out like the tutorial videos but eventually a lot of the code in the original wasn't needed when different functions were added. I also wanted to make it work without using ids for. theselections as I had 99 options(ah!) so making work with classes was also an interesting challenge. Hope you enjoy the muisc and fits! <3 
 
 Here are all the variants of the quiz/earlier versions:
 - https://replit.com/@piggysweettooth/Testing-Quiz#README.md (works without selecting the same/different buttons twice in the same questions ~ following videos w/ classes instead of ids)
@@ -132,42 +132,3 @@ ___
 - [Kero Kero Bonito](https://www.pexels.com/photo/woman-in-pink-zip-up-jacket-and-blue-denim-jeans-2853909/)
 
 ___
-
-### Project Requirements
-Your project should:
-- Have at least three questions.
-- Have at least two answers to each question that correspond to the quiz outcomes.
-- Allow a person to select an answer by clicking a button.
-- Display different outcomes for different combinations of answer selections.
-
-
-### Extensions
-You can extend your project further by:
-- Adding more questions to your quiz.
-- Customizing the look and feel with CSS.
-- Allow a person to restart the quiz by clicking a button.
-- Creating a button to update result instead of having it display unprompted.
-- Disabling buttons after a person selects an answer.
-___
-
-## File Overview
-
-### ← README.md
-
-That's this file. This is the place to tell people more about what your website does and how you built it. 
-
-### ← index.html
-
-HTML files are for content! Add your text, images, buttons, and more using HTML tags.
-
-### ← style.css
-
-CSS files add styling rules to your content like changing colors and fonts. 
-
-### ← script.js
-
-JavaScript files add interactivity to your website using code. This is where you can listen for events, then take an action.
-
-### ← assets
-
-Drag in assets, like images or music, to add them to your project. You do not need to add anything to this folder unless you are working on the extensions. If you are adding an image, it is best to save it to your computer, then upload the file to the `assets` folder. The url of the image will be `assets/example.jpg`.
