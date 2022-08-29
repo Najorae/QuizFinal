@@ -11,7 +11,6 @@ Here are all the variants of the quiz/earlier versions:
 - https://replit.com/@piggysweettooth/Personality-Quiz-Starter-Code#README.md (first!)
 ___
 ### Image Attributions
-*Tell us where you found the image you are using! Make sure it is in the public domain, has a license that allows you to use it, or is one you took on your own. Check out [archive.org](https://archive.org/), [Pixabay](https://pixabay.com/), [Unsplash](https://unsplash.com/), or [Burst](https://burst.shopify.com/) for free, uncopyrighted images.*
 
 *Question One:*
 - [Portishead](https://www.pexels.com/photo/studio-shot-of-female-model-sitting-on-chair-9656898/)
